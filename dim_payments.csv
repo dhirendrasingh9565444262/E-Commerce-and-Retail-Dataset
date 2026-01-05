@@ -1,0 +1,6 @@
+PaymentID,PaymentMode,PaymentProvider
+1,UPI,GPay
+2,Credit Card,Visa
+3,Debit Card,MasterCard
+4,Net Banking,HDFC
+5,COD,Cash

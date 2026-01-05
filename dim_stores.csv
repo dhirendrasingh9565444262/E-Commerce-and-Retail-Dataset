@@ -1,0 +1,1001 @@
+StoreID,StoreName,Region,State,City
+1,Store_1,North,Uttar Pradesh,Bardhaman
+2,Store_2,North,Maharashtra,Saharsa
+3,Store_3,West,Uttar Pradesh,Nadiad
+4,Store_4,East,Karnataka,Nandyal
+5,Store_5,East,Karnataka,Tiruppur
+6,Store_6,East,Uttar Pradesh,Satna
+7,Store_7,North,Uttar Pradesh,Burhanpur
+8,Store_8,East,Delhi,Bally
+9,Store_9,East,Karnataka,Ranchi
+10,Store_10,South,Tamil Nadu,Aurangabad
+11,Store_11,North,Karnataka,South Dumdum
+12,Store_12,South,Uttar Pradesh,Bidhannagar
+13,Store_13,Central,Maharashtra,Guntakal
+14,Store_14,Central,Maharashtra,Bihar Sharif
+15,Store_15,West,Karnataka,Tenali
+16,Store_16,West,Karnataka,Madhyamgram
+17,Store_17,West,Tamil Nadu,Ambarnath
+18,Store_18,North,Karnataka,Guntur
+19,Store_19,West,Maharashtra,Visakhapatnam
+20,Store_20,West,Maharashtra,Anand
+21,Store_21,West,Tamil Nadu,Gangtok
+22,Store_22,North,Delhi,Raurkela Industrial Township
+23,Store_23,North,Uttar Pradesh,Tirunelveli
+24,Store_24,East,Delhi,Amaravati
+25,Store_25,North,Tamil Nadu,Loni
+26,Store_26,South,Uttar Pradesh,Vijayawada
+27,Store_27,West,Uttar Pradesh,Aizawl
+28,Store_28,North,Tamil Nadu,Bhatpara
+29,Store_29,West,Karnataka,Belgaum
+30,Store_30,Central,Delhi,Hapur
+31,Store_31,Central,Uttar Pradesh,Jammu
+32,Store_32,East,Karnataka,Kharagpur
+33,Store_33,South,Tamil Nadu,Tumkur
+34,Store_34,South,Tamil Nadu,Pune
+35,Store_35,Central,Tamil Nadu,Gurgaon
+36,Store_36,North,Tamil Nadu,Nanded
+37,Store_37,South,Karnataka,Lucknow
+38,Store_38,Central,Tamil Nadu,Raurkela Industrial Township
+39,Store_39,Central,Delhi,Naihati
+40,Store_40,Central,Karnataka,Kolkata
+41,Store_41,North,Tamil Nadu,Bangalore
+42,Store_42,Central,Uttar Pradesh,Guwahati
+43,Store_43,South,Delhi,Hyderabad
+44,Store_44,North,Maharashtra,Gangtok
+45,Store_45,South,Tamil Nadu,Pali
+46,Store_46,Central,Karnataka,Mira-Bhayandar
+47,Store_47,Central,Tamil Nadu,Jodhpur
+48,Store_48,East,Maharashtra,Rampur
+49,Store_49,South,Delhi,Tinsukia
+50,Store_50,South,Maharashtra,Kulti
+51,Store_51,East,Maharashtra,Mango
+52,Store_52,Central,Delhi,Ulhasnagar
+53,Store_53,West,Karnataka,Kota
+54,Store_54,North,Tamil Nadu,Jamalpur
+55,Store_55,South,Maharashtra,Salem
+56,Store_56,East,Karnataka,Ramagundam
+57,Store_57,Central,Delhi,Bhatpara
+58,Store_58,North,Karnataka,Muzaffarnagar
+59,Store_59,North,Delhi,Ichalkaranji
+60,Store_60,North,Tamil Nadu,Indore
+61,Store_61,East,Tamil Nadu,Lucknow
+62,Store_62,West,Maharashtra,Srikakulam
+63,Store_63,Central,Maharashtra,Jalandhar
+64,Store_64,West,Maharashtra,Nagaon
+65,Store_65,East,Delhi,Ichalkaranji
+66,Store_66,East,Karnataka,Thanjavur
+67,Store_67,Central,Tamil Nadu,Bally
+68,Store_68,South,Delhi,Rajkot
+69,Store_69,North,Maharashtra,Bhind
+70,Store_70,East,Uttar Pradesh,Anand
+71,Store_71,West,Delhi,Kottayam
+72,Store_72,West,Tamil Nadu,Ramgarh
+73,Store_73,South,Maharashtra,Varanasi
+74,Store_74,Central,Delhi,Warangal
+75,Store_75,Central,Karnataka,Tenali
+76,Store_76,Central,Uttar Pradesh,Haldia
+77,Store_77,West,Tamil Nadu,Thane
+78,Store_78,East,Tamil Nadu,Sambalpur
+79,Store_79,West,Delhi,Salem
+80,Store_80,Central,Delhi,Rajahmundry
+81,Store_81,Central,Delhi,Raebareli
+82,Store_82,Central,Karnataka,Ramgarh
+83,Store_83,South,Maharashtra,Rajkot
+84,Store_84,East,Uttar Pradesh,Panihati
+85,Store_85,North,Uttar Pradesh,Shimoga
+86,Store_86,West,Uttar Pradesh,Bhusawal
+87,Store_87,Central,Maharashtra,Chandrapur
+88,Store_88,Central,Tamil Nadu,Anand
+89,Store_89,Central,Delhi,Raebareli
+90,Store_90,East,Tamil Nadu,Solapur
+91,Store_91,South,Karnataka,Sonipat
+92,Store_92,East,Karnataka,Bidhannagar
+93,Store_93,West,Karnataka,Nagercoil
+94,Store_94,South,Tamil Nadu,New Delhi
+95,Store_95,North,Tamil Nadu,Ramgarh
+96,Store_96,East,Uttar Pradesh,Adoni
+97,Store_97,West,Maharashtra,Orai
+98,Store_98,East,Uttar Pradesh,Bhalswa Jahangir Pur
+99,Store_99,North,Tamil Nadu,Anantapur
+100,Store_100,East,Karnataka,Jhansi
+101,Store_101,East,Tamil Nadu,Dewas
+102,Store_102,East,Uttar Pradesh,Srikakulam
+103,Store_103,North,Uttar Pradesh,Sasaram
+104,Store_104,East,Tamil Nadu,Jalgaon
+105,Store_105,South,Delhi,Sangli-Miraj & Kupwad
+106,Store_106,South,Karnataka,Jodhpur
+107,Store_107,North,Delhi,Aurangabad
+108,Store_108,Central,Tamil Nadu,Gulbarga
+109,Store_109,East,Maharashtra,Tiruchirappalli
+110,Store_110,South,Maharashtra,Coimbatore
+111,Store_111,North,Maharashtra,Udupi
+112,Store_112,Central,Uttar Pradesh,Bathinda
+113,Store_113,Central,Uttar Pradesh,Hosur
+114,Store_114,North,Uttar Pradesh,Thiruvananthapuram
+115,Store_115,East,Uttar Pradesh,Bhilwara
+116,Store_116,East,Karnataka,Tadipatri
+117,Store_117,South,Tamil Nadu,Bahraich
+118,Store_118,Central,Maharashtra,Tadepalligudem
+119,Store_119,Central,Karnataka,Vadodara
+120,Store_120,Central,Tamil Nadu,Serampore
+121,Store_121,East,Maharashtra,Danapur
+122,Store_122,East,Delhi,Jamalpur
+123,Store_123,South,Delhi,Aurangabad
+124,Store_124,North,Delhi,Nandyal
+125,Store_125,East,Uttar Pradesh,Chapra
+126,Store_126,North,Maharashtra,Indore
+127,Store_127,West,Delhi,Thanjavur
+128,Store_128,Central,Tamil Nadu,Aizawl
+129,Store_129,North,Uttar Pradesh,Panchkula
+130,Store_130,South,Tamil Nadu,Munger
+131,Store_131,Central,Tamil Nadu,Adoni
+132,Store_132,West,Karnataka,Srikakulam
+133,Store_133,West,Delhi,Kolhapur
+134,Store_134,West,Karnataka,Hosur
+135,Store_135,Central,Tamil Nadu,Madurai
+136,Store_136,South,Karnataka,Mathura
+137,Store_137,North,Karnataka,Jalandhar
+138,Store_138,East,Delhi,Mysore
+139,Store_139,Central,Karnataka,Gudivada
+140,Store_140,East,Karnataka,Mahbubnagar
+141,Store_141,South,Maharashtra,Satna
+142,Store_142,Central,Uttar Pradesh,Malda
+143,Store_143,East,Maharashtra,Etawah
+144,Store_144,North,Karnataka,Naihati
+145,Store_145,Central,Maharashtra,Raebareli
+146,Store_146,South,Tamil Nadu,Gaya
+147,Store_147,East,Delhi,Rewa
+148,Store_148,North,Tamil Nadu,Rajkot
+149,Store_149,West,Karnataka,Sonipat
+150,Store_150,Central,Karnataka,Bhalswa Jahangir Pur
+151,Store_151,West,Maharashtra,Panchkula
+152,Store_152,Central,Maharashtra,Miryalaguda
+153,Store_153,Central,Maharashtra,Raurkela Industrial Township
+154,Store_154,North,Delhi,Tiruchirappalli
+155,Store_155,West,Tamil Nadu,Dibrugarh
+156,Store_156,South,Uttar Pradesh,Nadiad
+157,Store_157,East,Delhi,Chittoor
+158,Store_158,South,Maharashtra,Ranchi
+159,Store_159,West,Karnataka,Hospet
+160,Store_160,East,Delhi,Aurangabad
+161,Store_161,East,Delhi,Tumkur
+162,Store_162,North,Uttar Pradesh,Kulti
+163,Store_163,East,Delhi,Siwan
+164,Store_164,East,Karnataka,Tiruppur
+165,Store_165,West,Karnataka,Jorhat
+166,Store_166,Central,Delhi,Jalgaon
+167,Store_167,West,Tamil Nadu,Bareilly
+168,Store_168,North,Tamil Nadu,Chandrapur
+169,Store_169,West,Uttar Pradesh,Chittoor
+170,Store_170,East,Karnataka,Thiruvananthapuram
+171,Store_171,East,Maharashtra,Kochi
+172,Store_172,South,Delhi,Bettiah
+173,Store_173,Central,Tamil Nadu,Danapur
+174,Store_174,West,Karnataka,Sasaram
+175,Store_175,West,Delhi,Parbhani
+176,Store_176,South,Karnataka,Jamshedpur
+177,Store_177,North,Delhi,Hajipur
+178,Store_178,Central,Uttar Pradesh,Bokaro
+179,Store_179,North,Delhi,Ambattur
+180,Store_180,East,Uttar Pradesh,Patna
+181,Store_181,East,Maharashtra,Indore
+182,Store_182,Central,Delhi,Ahmedabad
+183,Store_183,South,Karnataka,Berhampore
+184,Store_184,South,Tamil Nadu,Ramgarh
+185,Store_185,West,Delhi,Satna
+186,Store_186,North,Uttar Pradesh,Bidhannagar
+187,Store_187,South,Uttar Pradesh,Medininagar
+188,Store_188,South,Karnataka,Alwar
+189,Store_189,West,Karnataka,Panvel
+190,Store_190,East,Tamil Nadu,Noida
+191,Store_191,South,Delhi,Mahbubnagar
+192,Store_192,West,Maharashtra,Khandwa
+193,Store_193,North,Karnataka,South Dumdum
+194,Store_194,West,Maharashtra,Raurkela Industrial Township
+195,Store_195,West,Karnataka,Pali
+196,Store_196,South,Karnataka,Yamunanagar
+197,Store_197,North,Delhi,Haridwar
+198,Store_198,West,Karnataka,Jehanabad
+199,Store_199,East,Karnataka,Dehradun
+200,Store_200,South,Karnataka,Durg
+201,Store_201,North,Maharashtra,Mysore
+202,Store_202,East,Karnataka,Maheshtala
+203,Store_203,North,Karnataka,Noida
+204,Store_204,West,Delhi,Chandrapur
+205,Store_205,Central,Karnataka,Navi Mumbai
+206,Store_206,North,Maharashtra,Nellore
+207,Store_207,Central,Tamil Nadu,Vadodara
+208,Store_208,East,Maharashtra,Bilaspur
+209,Store_209,East,Karnataka,Sonipat
+210,Store_210,West,Delhi,Erode
+211,Store_211,Central,Karnataka,Hyderabad
+212,Store_212,Central,Maharashtra,Durgapur
+213,Store_213,West,Tamil Nadu,Guntakal
+214,Store_214,East,Tamil Nadu,Pondicherry
+215,Store_215,East,Maharashtra,Tumkur
+216,Store_216,Central,Delhi,Jorhat
+217,Store_217,Central,Karnataka,Rajpur Sonarpur
+218,Store_218,South,Tamil Nadu,Visakhapatnam
+219,Store_219,East,Karnataka,Pali
+220,Store_220,North,Maharashtra,Cuttack
+221,Store_221,East,Uttar Pradesh,Tinsukia
+222,Store_222,South,Tamil Nadu,Raebareli
+223,Store_223,West,Maharashtra,New Delhi
+224,Store_224,East,Maharashtra,Hubli–Dharwad
+225,Store_225,East,Maharashtra,Karawal Nagar
+226,Store_226,East,Maharashtra,Bhubaneswar
+227,Store_227,South,Tamil Nadu,Eluru
+228,Store_228,North,Karnataka,Nizamabad
+229,Store_229,West,Karnataka,Jaunpur
+230,Store_230,West,Uttar Pradesh,Satara
+231,Store_231,North,Karnataka,Mirzapur
+232,Store_232,South,Tamil Nadu,Jamnagar
+233,Store_233,Central,Delhi,Kota
+234,Store_234,South,Tamil Nadu,Suryapet
+235,Store_235,East,Karnataka,Patiala
+236,Store_236,Central,Tamil Nadu,Moradabad
+237,Store_237,Central,Delhi,Nashik
+238,Store_238,Central,Tamil Nadu,Durg
+239,Store_239,East,Karnataka,Sangli-Miraj & Kupwad
+240,Store_240,West,Delhi,Tadipatri
+241,Store_241,East,Maharashtra,Nellore
+242,Store_242,North,Tamil Nadu,Rajahmundry
+243,Store_243,West,Karnataka,Amaravati
+244,Store_244,Central,Delhi,Aurangabad
+245,Store_245,West,Uttar Pradesh,Hospet
+246,Store_246,South,Tamil Nadu,Kolhapur
+247,Store_247,Central,Delhi,Bhatpara
+248,Store_248,North,Uttar Pradesh,Durg
+249,Store_249,South,Tamil Nadu,Jalgaon
+250,Store_250,North,Uttar Pradesh,Jabalpur
+251,Store_251,East,Karnataka,Gulbarga
+252,Store_252,East,Delhi,South Dumdum
+253,Store_253,East,Karnataka,Malda
+254,Store_254,South,Tamil Nadu,Ghaziabad
+255,Store_255,East,Maharashtra,Surendranagar Dudhrej
+256,Store_256,Central,Tamil Nadu,Bathinda
+257,Store_257,East,Maharashtra,Bhilwara
+258,Store_258,South,Delhi,North Dumdum
+259,Store_259,North,Uttar Pradesh,Visakhapatnam
+260,Store_260,West,Uttar Pradesh,Kavali
+261,Store_261,West,Delhi,Chandrapur
+262,Store_262,Central,Delhi,Gandhinagar
+263,Store_263,West,Maharashtra,Naihati
+264,Store_264,East,Maharashtra,Amravati
+265,Store_265,West,Tamil Nadu,Madurai
+266,Store_266,East,Karnataka,Bidhannagar
+267,Store_267,East,Delhi,Patna
+268,Store_268,West,Karnataka,Bhusawal
+269,Store_269,East,Uttar Pradesh,Rajahmundry
+270,Store_270,Central,Karnataka,Vijayanagaram
+271,Store_271,North,Tamil Nadu,Imphal
+272,Store_272,North,Karnataka,Adoni
+273,Store_273,South,Delhi,Panchkula
+274,Store_274,West,Uttar Pradesh,Pallavaram
+275,Store_275,Central,Maharashtra,Gurgaon
+276,Store_276,Central,Tamil Nadu,Bhopal
+277,Store_277,Central,Delhi,Danapur
+278,Store_278,Central,Karnataka,Jodhpur
+279,Store_279,West,Maharashtra,Tiruchirappalli
+280,Store_280,East,Maharashtra,Ujjain
+281,Store_281,East,Karnataka,Etawah
+282,Store_282,North,Karnataka,Chennai
+283,Store_283,South,Delhi,Avadi
+284,Store_284,Central,Delhi,Udupi
+285,Store_285,Central,Maharashtra,Pimpri-Chinchwad
+286,Store_286,North,Maharashtra,Thrissur
+287,Store_287,South,Delhi,Secunderabad
+288,Store_288,West,Tamil Nadu,Farrukhabad
+289,Store_289,East,Uttar Pradesh,Dhanbad
+290,Store_290,Central,Karnataka,Nashik
+291,Store_291,East,Karnataka,Sirsa
+292,Store_292,Central,Delhi,Durg
+293,Store_293,West,Tamil Nadu,Secunderabad
+294,Store_294,Central,Tamil Nadu,Kavali
+295,Store_295,Central,Tamil Nadu,Bhilai
+296,Store_296,North,Maharashtra,Tinsukia
+297,Store_297,East,Uttar Pradesh,Meerut
+298,Store_298,North,Uttar Pradesh,Kumbakonam
+299,Store_299,Central,Uttar Pradesh,Agartala
+300,Store_300,West,Karnataka,Karnal
+301,Store_301,North,Tamil Nadu,Jaunpur
+302,Store_302,West,Delhi,Siwan
+303,Store_303,East,Karnataka,Giridih
+304,Store_304,West,Tamil Nadu,Ujjain
+305,Store_305,East,Tamil Nadu,Karimnagar
+306,Store_306,North,Karnataka,Katni
+307,Store_307,Central,Delhi,Etawah
+308,Store_308,Central,Maharashtra,Raiganj
+309,Store_309,South,Maharashtra,Berhampore
+310,Store_310,West,Uttar Pradesh,Shimla
+311,Store_311,North,Karnataka,Ambarnath
+312,Store_312,West,Uttar Pradesh,Nizamabad
+313,Store_313,West,Tamil Nadu,Nandyal
+314,Store_314,Central,Tamil Nadu,Dhanbad
+315,Store_315,East,Maharashtra,Chittoor
+316,Store_316,South,Karnataka,Raichur
+317,Store_317,South,Karnataka,Muzaffarpur
+318,Store_318,Central,Tamil Nadu,Sonipat
+319,Store_319,East,Uttar Pradesh,Kirari Suleman Nagar
+320,Store_320,Central,Karnataka,Berhampore
+321,Store_321,South,Karnataka,Nangloi Jat
+322,Store_322,East,Karnataka,Phusro
+323,Store_323,North,Uttar Pradesh,Vijayawada
+324,Store_324,South,Maharashtra,Bhubaneswar
+325,Store_325,South,Karnataka,Nandyal
+326,Store_326,East,Karnataka,Kadapa
+327,Store_327,East,Tamil Nadu,Jalna
+328,Store_328,East,Uttar Pradesh,Thiruvananthapuram
+329,Store_329,Central,Delhi,Ranchi
+330,Store_330,Central,Delhi,Farrukhabad
+331,Store_331,North,Maharashtra,Maheshtala
+332,Store_332,Central,Delhi,Aurangabad
+333,Store_333,Central,Uttar Pradesh,Sonipat
+334,Store_334,Central,Karnataka,Vasai-Virar
+335,Store_335,South,Delhi,Ballia
+336,Store_336,East,Delhi,Satara
+337,Store_337,South,Karnataka,New Delhi
+338,Store_338,Central,Delhi,Mirzapur
+339,Store_339,West,Delhi,Dhule
+340,Store_340,Central,Uttar Pradesh,Sasaram
+341,Store_341,North,Uttar Pradesh,Aizawl
+342,Store_342,East,Karnataka,Madanapalle
+343,Store_343,South,Delhi,Visakhapatnam
+344,Store_344,South,Karnataka,Erode
+345,Store_345,North,Uttar Pradesh,Narasaraopet
+346,Store_346,North,Karnataka,Udupi
+347,Store_347,North,Karnataka,Bhalswa Jahangir Pur
+348,Store_348,East,Maharashtra,Saharsa
+349,Store_349,South,Maharashtra,Kota
+350,Store_350,South,Tamil Nadu,Srinagar
+351,Store_351,East,Uttar Pradesh,Tinsukia
+352,Store_352,Central,Delhi,Jaipur
+353,Store_353,South,Uttar Pradesh,Bijapur
+354,Store_354,South,Uttar Pradesh,Gaya
+355,Store_355,East,Uttar Pradesh,Morena
+356,Store_356,South,Karnataka,Sagar
+357,Store_357,South,Karnataka,Mehsana
+358,Store_358,North,Delhi,Bongaigaon
+359,Store_359,West,Uttar Pradesh,Amritsar
+360,Store_360,Central,Karnataka,Erode
+361,Store_361,West,Karnataka,Jaunpur
+362,Store_362,West,Tamil Nadu,Parbhani
+363,Store_363,North,Maharashtra,Ambarnath
+364,Store_364,South,Uttar Pradesh,Raebareli
+365,Store_365,North,Maharashtra,Jaipur
+366,Store_366,Central,Maharashtra,Arrah
+367,Store_367,Central,Maharashtra,Rohtak
+368,Store_368,South,Uttar Pradesh,Durgapur
+369,Store_369,East,Delhi,Anantapuram
+370,Store_370,West,Delhi,Kolhapur
+371,Store_371,South,Delhi,Begusarai
+372,Store_372,East,Delhi,Dewas
+373,Store_373,West,Uttar Pradesh,Ballia
+374,Store_374,West,Maharashtra,Katihar
+375,Store_375,South,Delhi,Jaipur
+376,Store_376,South,Uttar Pradesh,Tirunelveli
+377,Store_377,Central,Delhi,Navi Mumbai
+378,Store_378,East,Tamil Nadu,Kirari Suleman Nagar
+379,Store_379,Central,Tamil Nadu,Dhanbad
+380,Store_380,East,Maharashtra,Jalgaon
+381,Store_381,North,Karnataka,Anantapur
+382,Store_382,North,Uttar Pradesh,Sambhal
+383,Store_383,North,Karnataka,Kharagpur
+384,Store_384,West,Delhi,Vasai-Virar
+385,Store_385,North,Karnataka,Farrukhabad
+386,Store_386,West,Maharashtra,Machilipatnam
+387,Store_387,West,Delhi,Adoni
+388,Store_388,East,Tamil Nadu,Jamalpur
+389,Store_389,Central,Uttar Pradesh,South Dumdum
+390,Store_390,West,Delhi,Korba
+391,Store_391,Central,Tamil Nadu,Faridabad
+392,Store_392,West,Uttar Pradesh,Bhimavaram
+393,Store_393,Central,Karnataka,Hazaribagh
+394,Store_394,Central,Uttar Pradesh,Begusarai
+395,Store_395,Central,Tamil Nadu,Coimbatore
+396,Store_396,South,Delhi,Bihar Sharif
+397,Store_397,South,Delhi,Pallavaram
+398,Store_398,South,Maharashtra,Karimnagar
+399,Store_399,Central,Tamil Nadu,Faridabad
+400,Store_400,North,Maharashtra,Surat
+401,Store_401,West,Tamil Nadu,Mirzapur
+402,Store_402,South,Tamil Nadu,Dharmavaram
+403,Store_403,West,Tamil Nadu,Singrauli
+404,Store_404,West,Karnataka,Raurkela Industrial Township
+405,Store_405,North,Uttar Pradesh,Rajahmundry
+406,Store_406,North,Karnataka,Guntakal
+407,Store_407,South,Tamil Nadu,Unnao
+408,Store_408,West,Karnataka,Dehri
+409,Store_409,Central,Maharashtra,Danapur
+410,Store_410,North,Maharashtra,Alwar
+411,Store_411,West,Tamil Nadu,Sirsa
+412,Store_412,East,Delhi,Davanagere
+413,Store_413,East,Delhi,Kumbakonam
+414,Store_414,West,Karnataka,Orai
+415,Store_415,South,Karnataka,Tiruchirappalli
+416,Store_416,Central,Karnataka,Dharmavaram
+417,Store_417,West,Karnataka,Amritsar
+418,Store_418,Central,Uttar Pradesh,Bhusawal
+419,Store_419,South,Maharashtra,Nizamabad
+420,Store_420,East,Delhi,Bhagalpur
+421,Store_421,East,Maharashtra,Saharsa
+422,Store_422,North,Delhi,Sirsa
+423,Store_423,Central,Uttar Pradesh,Dehradun
+424,Store_424,Central,Maharashtra,Bareilly
+425,Store_425,East,Uttar Pradesh,Raiganj
+426,Store_426,East,Delhi,Kolkata
+427,Store_427,West,Karnataka,Pallavaram
+428,Store_428,Central,Karnataka,Phusro
+429,Store_429,West,Delhi,Bangalore
+430,Store_430,West,Tamil Nadu,Amroha
+431,Store_431,South,Tamil Nadu,Kota
+432,Store_432,North,Uttar Pradesh,Kavali
+433,Store_433,East,Tamil Nadu,Fatehpur
+434,Store_434,East,Tamil Nadu,Yamunanagar
+435,Store_435,East,Delhi,Rajpur Sonarpur
+436,Store_436,South,Maharashtra,Bhopal
+437,Store_437,East,Karnataka,Hazaribagh
+438,Store_438,North,Uttar Pradesh,Mahbubnagar
+439,Store_439,South,Delhi,Nashik
+440,Store_440,South,Uttar Pradesh,Mumbai
+441,Store_441,South,Maharashtra,Rohtak
+442,Store_442,South,Tamil Nadu,Anantapur
+443,Store_443,East,Tamil Nadu,Pondicherry
+444,Store_444,West,Uttar Pradesh,Kozhikode
+445,Store_445,East,Karnataka,Bahraich
+446,Store_446,South,Karnataka,Jorhat
+447,Store_447,South,Delhi,Ghaziabad
+448,Store_448,East,Tamil Nadu,Gangtok
+449,Store_449,West,Maharashtra,Panchkula
+450,Store_450,West,Uttar Pradesh,Deoghar
+451,Store_451,South,Uttar Pradesh,Udaipur
+452,Store_452,Central,Karnataka,Dindigul
+453,Store_453,Central,Tamil Nadu,Dehradun
+454,Store_454,South,Delhi,Dehradun
+455,Store_455,South,Uttar Pradesh,Bokaro
+456,Store_456,East,Uttar Pradesh,Nandyal
+457,Store_457,Central,Karnataka,Indore
+458,Store_458,West,Maharashtra,Kota
+459,Store_459,South,Uttar Pradesh,Satna
+460,Store_460,West,Maharashtra,Bilaspur
+461,Store_461,East,Karnataka,Kavali
+462,Store_462,Central,Tamil Nadu,Gandhinagar
+463,Store_463,East,Maharashtra,Tirunelveli
+464,Store_464,East,Delhi,Proddatur
+465,Store_465,Central,Tamil Nadu,Mira-Bhayandar
+466,Store_466,West,Maharashtra,Amaravati
+467,Store_467,North,Uttar Pradesh,Alwar
+468,Store_468,East,Uttar Pradesh,Jorhat
+469,Store_469,South,Karnataka,Ulhasnagar
+470,Store_470,South,Tamil Nadu,Ozhukarai
+471,Store_471,North,Tamil Nadu,Thoothukudi
+472,Store_472,North,Tamil Nadu,Bhimavaram
+473,Store_473,North,Tamil Nadu,Ambarnath
+474,Store_474,Central,Uttar Pradesh,Naihati
+475,Store_475,East,Delhi,Kharagpur
+476,Store_476,Central,Delhi,Guna
+477,Store_477,Central,Delhi,Kakinada
+478,Store_478,North,Tamil Nadu,Bikaner
+479,Store_479,Central,Maharashtra,Siliguri
+480,Store_480,North,Karnataka,Miryalaguda
+481,Store_481,North,Karnataka,Hazaribagh
+482,Store_482,West,Delhi,Amroha
+483,Store_483,East,Karnataka,Sirsa
+484,Store_484,West,Tamil Nadu,Davanagere
+485,Store_485,South,Delhi,Nizamabad
+486,Store_486,South,Tamil Nadu,Nellore
+487,Store_487,West,Delhi,Kolhapur
+488,Store_488,South,Tamil Nadu,Bareilly
+489,Store_489,South,Karnataka,Tiruchirappalli
+490,Store_490,East,Maharashtra,Thrissur
+491,Store_491,South,Karnataka,Guntur
+492,Store_492,North,Delhi,Singrauli
+493,Store_493,North,Tamil Nadu,Rampur
+494,Store_494,Central,Karnataka,Morena
+495,Store_495,South,Uttar Pradesh,Baranagar
+496,Store_496,East,Maharashtra,Siliguri
+497,Store_497,West,Uttar Pradesh,Ajmer
+498,Store_498,South,Maharashtra,Sultan Pur Majra
+499,Store_499,North,Maharashtra,Muzaffarnagar
+500,Store_500,West,Uttar Pradesh,Haldia
+501,Store_501,East,Tamil Nadu,Amritsar
+502,Store_502,South,Karnataka,Hazaribagh
+503,Store_503,South,Delhi,Loni
+504,Store_504,North,Maharashtra,Phagwara
+505,Store_505,South,Delhi,Gurgaon
+506,Store_506,West,Karnataka,Tiruppur
+507,Store_507,East,Delhi,Tumkur
+508,Store_508,South,Delhi,Sultan Pur Majra
+509,Store_509,South,Uttar Pradesh,Mira-Bhayandar
+510,Store_510,East,Karnataka,Nagaon
+511,Store_511,South,Uttar Pradesh,Korba
+512,Store_512,East,Maharashtra,Satara
+513,Store_513,East,Uttar Pradesh,Hajipur
+514,Store_514,South,Delhi,Lucknow
+515,Store_515,East,Tamil Nadu,Hapur
+516,Store_516,West,Maharashtra,Dindigul
+517,Store_517,East,Maharashtra,Bardhaman
+518,Store_518,North,Uttar Pradesh,Anantapur
+519,Store_519,Central,Delhi,Bokaro
+520,Store_520,East,Uttar Pradesh,Guntakal
+521,Store_521,Central,Karnataka,Bongaigaon
+522,Store_522,West,Delhi,Mangalore
+523,Store_523,Central,Tamil Nadu,Anantapur
+524,Store_524,South,Tamil Nadu,Suryapet
+525,Store_525,South,Uttar Pradesh,Vadodara
+526,Store_526,South,Tamil Nadu,Thoothukudi
+527,Store_527,South,Delhi,Bilaspur
+528,Store_528,West,Delhi,Bhiwani
+529,Store_529,West,Uttar Pradesh,Kamarhati
+530,Store_530,Central,Maharashtra,Ramgarh
+531,Store_531,East,Delhi,Ajmer
+532,Store_532,North,Maharashtra,Sasaram
+533,Store_533,South,Delhi,Bhind
+534,Store_534,South,Tamil Nadu,Srikakulam
+535,Store_535,North,Maharashtra,Rewa
+536,Store_536,West,Uttar Pradesh,Kurnool
+537,Store_537,North,Karnataka,Nadiad
+538,Store_538,North,Maharashtra,Hosur
+539,Store_539,East,Delhi,Gorakhpur
+540,Store_540,South,Karnataka,Medininagar
+541,Store_541,West,Karnataka,Guna
+542,Store_542,Central,Uttar Pradesh,Aurangabad
+543,Store_543,East,Tamil Nadu,Avadi
+544,Store_544,East,Tamil Nadu,Alwar
+545,Store_545,East,Maharashtra,Darbhanga
+546,Store_546,South,Delhi,Rourkela
+547,Store_547,West,Delhi,Sambhal
+548,Store_548,East,Karnataka,Ichalkaranji
+549,Store_549,East,Tamil Nadu,Vadodara
+550,Store_550,West,Delhi,Berhampur
+551,Store_551,North,Maharashtra,Rampur
+552,Store_552,North,Uttar Pradesh,Baranagar
+553,Store_553,East,Uttar Pradesh,Gandhidham
+554,Store_554,North,Tamil Nadu,Medininagar
+555,Store_555,North,Delhi,Gandhinagar
+556,Store_556,West,Delhi,Moradabad
+557,Store_557,South,Tamil Nadu,Singrauli
+558,Store_558,South,Uttar Pradesh,Pali
+559,Store_559,North,Delhi,Asansol
+560,Store_560,Central,Karnataka,Sagar
+561,Store_561,West,Uttar Pradesh,Srikakulam
+562,Store_562,West,Maharashtra,Katihar
+563,Store_563,North,Uttar Pradesh,Tiruvottiyur
+564,Store_564,Central,Delhi,Kalyan-Dombivli
+565,Store_565,North,Delhi,Amaravati
+566,Store_566,South,Karnataka,Panipat
+567,Store_567,Central,Maharashtra,Rajahmundry
+568,Store_568,North,Maharashtra,Mahbubnagar
+569,Store_569,West,Maharashtra,Kharagpur
+570,Store_570,East,Uttar Pradesh,Phagwara
+571,Store_571,Central,Tamil Nadu,Katni
+572,Store_572,East,Tamil Nadu,Kirari Suleman Nagar
+573,Store_573,South,Delhi,Mira-Bhayandar
+574,Store_574,North,Maharashtra,Nagpur
+575,Store_575,East,Uttar Pradesh,Gopalpur
+576,Store_576,West,Uttar Pradesh,Bardhaman
+577,Store_577,Central,Delhi,Narasaraopet
+578,Store_578,Central,Tamil Nadu,Fatehpur
+579,Store_579,Central,Uttar Pradesh,Mahbubnagar
+580,Store_580,East,Delhi,Bathinda
+581,Store_581,South,Tamil Nadu,Kanpur
+582,Store_582,West,Delhi,Srikakulam
+583,Store_583,South,Karnataka,Medininagar
+584,Store_584,Central,Tamil Nadu,Raurkela Industrial Township
+585,Store_585,North,Uttar Pradesh,Anand
+586,Store_586,North,Maharashtra,Guna
+587,Store_587,West,Delhi,Machilipatnam
+588,Store_588,South,Maharashtra,Bihar Sharif
+589,Store_589,North,Karnataka,Sangli-Miraj & Kupwad
+590,Store_590,Central,Maharashtra,Hosur
+591,Store_591,South,Uttar Pradesh,Khandwa
+592,Store_592,South,Delhi,Jehanabad
+593,Store_593,West,Maharashtra,South Dumdum
+594,Store_594,West,Delhi,Agra
+595,Store_595,South,Karnataka,Tenali
+596,Store_596,Central,Tamil Nadu,Salem
+597,Store_597,North,Tamil Nadu,Yamunanagar
+598,Store_598,West,Uttar Pradesh,Panihati
+599,Store_599,Central,Maharashtra,Siliguri
+600,Store_600,South,Karnataka,Silchar
+601,Store_601,Central,Maharashtra,Akola
+602,Store_602,East,Karnataka,Belgaum
+603,Store_603,West,Maharashtra,Imphal
+604,Store_604,West,Tamil Nadu,Hosur
+605,Store_605,East,Uttar Pradesh,Amaravati
+606,Store_606,South,Karnataka,Bilaspur
+607,Store_607,South,Uttar Pradesh,Nizamabad
+608,Store_608,Central,Tamil Nadu,Guntakal
+609,Store_609,North,Tamil Nadu,Kavali
+610,Store_610,Central,Maharashtra,Amaravati
+611,Store_611,East,Karnataka,Srinagar
+612,Store_612,West,Delhi,Bihar Sharif
+613,Store_613,North,Uttar Pradesh,Karnal
+614,Store_614,East,Karnataka,Karawal Nagar
+615,Store_615,Central,Maharashtra,Udaipur
+616,Store_616,West,Karnataka,Kolhapur
+617,Store_617,West,Delhi,Meerut
+618,Store_618,South,Tamil Nadu,Thanjavur
+619,Store_619,South,Tamil Nadu,Imphal
+620,Store_620,Central,Uttar Pradesh,Durg
+621,Store_621,Central,Maharashtra,Khora 
+622,Store_622,West,Maharashtra,Karaikudi
+623,Store_623,South,Maharashtra,Hajipur
+624,Store_624,Central,Uttar Pradesh,Udaipur
+625,Store_625,West,Maharashtra,Karaikudi
+626,Store_626,Central,Maharashtra,Avadi
+627,Store_627,West,Uttar Pradesh,Rajahmundry
+628,Store_628,East,Uttar Pradesh,Bangalore
+629,Store_629,South,Karnataka,Saharanpur
+630,Store_630,South,Maharashtra,Uluberia
+631,Store_631,Central,Delhi,Bhimavaram
+632,Store_632,South,Tamil Nadu,Chinsurah
+633,Store_633,West,Karnataka,Bokaro
+634,Store_634,South,Delhi,Dindigul
+635,Store_635,Central,Maharashtra,Kamarhati
+636,Store_636,East,Maharashtra,Sonipat
+637,Store_637,East,Delhi,Mumbai
+638,Store_638,West,Uttar Pradesh,Pune
+639,Store_639,East,Uttar Pradesh,Katni
+640,Store_640,West,Tamil Nadu,Rajpur Sonarpur
+641,Store_641,West,Delhi,South Dumdum
+642,Store_642,West,Tamil Nadu,Siwan
+643,Store_643,Central,Maharashtra,Meerut
+644,Store_644,South,Maharashtra,Dharmavaram
+645,Store_645,East,Karnataka,Surendranagar Dudhrej
+646,Store_646,South,Uttar Pradesh,Howrah
+647,Store_647,South,Delhi,Guntakal
+648,Store_648,West,Delhi,Dehri
+649,Store_649,East,Maharashtra,Asansol
+650,Store_650,South,Uttar Pradesh,Fatehpur
+651,Store_651,East,Karnataka,Pallavaram
+652,Store_652,West,Uttar Pradesh,Khammam
+653,Store_653,South,Maharashtra,Gopalpur
+654,Store_654,Central,Delhi,Karnal
+655,Store_655,North,Maharashtra,Dharmavaram
+656,Store_656,North,Karnataka,Noida
+657,Store_657,South,Uttar Pradesh,Ratlam
+658,Store_658,East,Delhi,Kadapa
+659,Store_659,East,Maharashtra,Arrah
+660,Store_660,North,Tamil Nadu,Jorhat
+661,Store_661,Central,Uttar Pradesh,Bikaner
+662,Store_662,North,Maharashtra,Muzaffarnagar
+663,Store_663,West,Delhi,Anantapuram
+664,Store_664,East,Delhi,Aligarh
+665,Store_665,East,Delhi,Nanded
+666,Store_666,South,Delhi,Serampore
+667,Store_667,West,Tamil Nadu,Suryapet
+668,Store_668,South,Maharashtra,Siwan
+669,Store_669,East,Karnataka,Belgaum
+670,Store_670,Central,Karnataka,Raebareli
+671,Store_671,South,Uttar Pradesh,Aurangabad
+672,Store_672,East,Maharashtra,Firozabad
+673,Store_673,East,Uttar Pradesh,Nanded
+674,Store_674,West,Delhi,Nellore
+675,Store_675,East,Tamil Nadu,Srinagar
+676,Store_676,East,Uttar Pradesh,Ballia
+677,Store_677,West,Maharashtra,Delhi
+678,Store_678,Central,Tamil Nadu,Thane
+679,Store_679,North,Tamil Nadu,Gulbarga
+680,Store_680,North,Maharashtra,Mysore
+681,Store_681,East,Tamil Nadu,Jaipur
+682,Store_682,North,Tamil Nadu,Ichalkaranji
+683,Store_683,Central,Delhi,Rajkot
+684,Store_684,Central,Maharashtra,Gulbarga
+685,Store_685,East,Uttar Pradesh,Khora 
+686,Store_686,East,Uttar Pradesh,Guna
+687,Store_687,East,Uttar Pradesh,Surendranagar Dudhrej
+688,Store_688,South,Karnataka,Sonipat
+689,Store_689,East,Karnataka,Bhimavaram
+690,Store_690,West,Uttar Pradesh,Phagwara
+691,Store_691,West,Tamil Nadu,New Delhi
+692,Store_692,West,Tamil Nadu,Giridih
+693,Store_693,North,Uttar Pradesh,Mira-Bhayandar
+694,Store_694,North,Maharashtra,Madanapalle
+695,Store_695,East,Uttar Pradesh,Pimpri-Chinchwad
+696,Store_696,North,Karnataka,Bhimavaram
+697,Store_697,North,Maharashtra,Bhimavaram
+698,Store_698,Central,Delhi,Adoni
+699,Store_699,Central,Karnataka,Solapur
+700,Store_700,East,Delhi,Kakinada
+701,Store_701,Central,Karnataka,Rampur
+702,Store_702,West,Tamil Nadu,Rohtak
+703,Store_703,East,Delhi,Muzaffarpur
+704,Store_704,South,Maharashtra,Rajahmundry
+705,Store_705,South,Uttar Pradesh,Purnia
+706,Store_706,East,Karnataka,Karaikudi
+707,Store_707,West,Delhi,Nellore
+708,Store_708,South,Uttar Pradesh,Gudivada
+709,Store_709,Central,Maharashtra,Kota
+710,Store_710,South,Tamil Nadu,Avadi
+711,Store_711,North,Tamil Nadu,Aurangabad
+712,Store_712,Central,Delhi,Pune
+713,Store_713,North,Delhi,Sikar
+714,Store_714,Central,Uttar Pradesh,Anand
+715,Store_715,South,Tamil Nadu,Kolhapur
+716,Store_716,South,Karnataka,Morbi
+717,Store_717,Central,Delhi,Chandigarh
+718,Store_718,North,Delhi,Pudukkottai
+719,Store_719,West,Karnataka,Jehanabad
+720,Store_720,North,Tamil Nadu,Davanagere
+721,Store_721,Central,Karnataka,Tenali
+722,Store_722,West,Tamil Nadu,Sikar
+723,Store_723,West,Maharashtra,Howrah
+724,Store_724,South,Tamil Nadu,Aligarh
+725,Store_725,West,Tamil Nadu,Guntur
+726,Store_726,West,Karnataka,Bathinda
+727,Store_727,West,Uttar Pradesh,Jaunpur
+728,Store_728,North,Tamil Nadu,Hajipur
+729,Store_729,East,Tamil Nadu,Pudukkottai
+730,Store_730,North,Maharashtra,Latur
+731,Store_731,Central,Uttar Pradesh,Dindigul
+732,Store_732,North,Delhi,Amaravati
+733,Store_733,North,Maharashtra,Guntakal
+734,Store_734,North,Delhi,Kolkata
+735,Store_735,West,Delhi,Muzaffarpur
+736,Store_736,North,Uttar Pradesh,Gandhinagar
+737,Store_737,North,Delhi,Kavali
+738,Store_738,North,Delhi,Rewa
+739,Store_739,South,Maharashtra,Imphal
+740,Store_740,Central,Delhi,Berhampore
+741,Store_741,South,Delhi,Agartala
+742,Store_742,West,Tamil Nadu,Tumkur
+743,Store_743,East,Uttar Pradesh,Patna
+744,Store_744,West,Uttar Pradesh,Serampore
+745,Store_745,East,Tamil Nadu,Dehradun
+746,Store_746,Central,Delhi,Jaunpur
+747,Store_747,Central,Tamil Nadu,Amritsar
+748,Store_748,North,Karnataka,Hosur
+749,Store_749,South,Karnataka,Guwahati
+750,Store_750,East,Karnataka,Gandhinagar
+751,Store_751,North,Maharashtra,Jamshedpur
+752,Store_752,South,Tamil Nadu,Rajkot
+753,Store_753,South,Karnataka,Kanpur
+754,Store_754,South,Tamil Nadu,Durg
+755,Store_755,South,Maharashtra,Uluberia
+756,Store_756,North,Karnataka,Malegaon
+757,Store_757,North,Karnataka,Ludhiana
+758,Store_758,South,Maharashtra,Serampore
+759,Store_759,Central,Maharashtra,Bareilly
+760,Store_760,Central,Tamil Nadu,Moradabad
+761,Store_761,Central,Maharashtra,Jalna
+762,Store_762,East,Maharashtra,Mumbai
+763,Store_763,North,Tamil Nadu,Purnia
+764,Store_764,East,Uttar Pradesh,Ballia
+765,Store_765,West,Uttar Pradesh,Gandhidham
+766,Store_766,Central,Delhi,Visakhapatnam
+767,Store_767,West,Maharashtra,Mango
+768,Store_768,South,Maharashtra,Raebareli
+769,Store_769,North,Delhi,Ahmednagar
+770,Store_770,East,Tamil Nadu,Sambalpur
+771,Store_771,West,Delhi,Mysore
+772,Store_772,North,Tamil Nadu,Narasaraopet
+773,Store_773,North,Maharashtra,Mehsana
+774,Store_774,South,Delhi,Nizamabad
+775,Store_775,East,Delhi,Gandhidham
+776,Store_776,East,Karnataka,Dhanbad
+777,Store_777,West,Delhi,Delhi
+778,Store_778,West,Karnataka,Ongole
+779,Store_779,Central,Karnataka,Gudivada
+780,Store_780,Central,Maharashtra,Shahjahanpur
+781,Store_781,West,Karnataka,Meerut
+782,Store_782,Central,Uttar Pradesh,Machilipatnam
+783,Store_783,West,Maharashtra,Sambhal
+784,Store_784,South,Uttar Pradesh,Rohtak
+785,Store_785,East,Karnataka,Durgapur
+786,Store_786,Central,Maharashtra,North Dumdum
+787,Store_787,Central,Maharashtra,Dhanbad
+788,Store_788,Central,Karnataka,Proddatur
+789,Store_789,North,Karnataka,Medininagar
+790,Store_790,West,Karnataka,Ajmer
+791,Store_791,North,Maharashtra,Nizamabad
+792,Store_792,Central,Tamil Nadu,Bongaigaon
+793,Store_793,North,Tamil Nadu,Chennai
+794,Store_794,South,Delhi,Panvel
+795,Store_795,West,Tamil Nadu,Durg
+796,Store_796,East,Uttar Pradesh,Jammu
+797,Store_797,West,Delhi,Tadipatri
+798,Store_798,West,Karnataka,Miryalaguda
+799,Store_799,Central,Delhi,Fatehpur
+800,Store_800,East,Karnataka,Giridih
+801,Store_801,East,Tamil Nadu,Kurnool
+802,Store_802,East,Delhi,Gorakhpur
+803,Store_803,Central,Delhi,Raurkela Industrial Township
+804,Store_804,South,Delhi,Jalandhar
+805,Store_805,North,Maharashtra,Siliguri
+806,Store_806,Central,Maharashtra,Jammu
+807,Store_807,West,Tamil Nadu,Sambhal
+808,Store_808,North,Delhi,Deoghar
+809,Store_809,Central,Uttar Pradesh,Uluberia
+810,Store_810,Central,Uttar Pradesh,Gaya
+811,Store_811,South,Uttar Pradesh,Bally
+812,Store_812,Central,Delhi,Jaunpur
+813,Store_813,South,Delhi,Khora 
+814,Store_814,North,Tamil Nadu,Nagpur
+815,Store_815,West,Delhi,Gurgaon
+816,Store_816,East,Karnataka,Deoghar
+817,Store_817,South,Delhi,Kalyan-Dombivli
+818,Store_818,Central,Uttar Pradesh,Gangtok
+819,Store_819,North,Delhi,Bhind
+820,Store_820,North,Delhi,Amaravati
+821,Store_821,South,Karnataka,Baranagar
+822,Store_822,East,Delhi,Nagpur
+823,Store_823,East,Delhi,Mirzapur
+824,Store_824,North,Delhi,Raipur
+825,Store_825,West,Uttar Pradesh,Sambalpur
+826,Store_826,South,Uttar Pradesh,Hyderabad
+827,Store_827,North,Karnataka,Junagadh
+828,Store_828,West,Maharashtra,Kozhikode
+829,Store_829,Central,Maharashtra,Proddatur
+830,Store_830,West,Karnataka,Tiruchirappalli
+831,Store_831,South,Maharashtra,Uluberia
+832,Store_832,North,Tamil Nadu,Haridwar
+833,Store_833,West,Uttar Pradesh,Phusro
+834,Store_834,North,Uttar Pradesh,Mysore
+835,Store_835,West,Uttar Pradesh,Mirzapur
+836,Store_836,East,Maharashtra,Moradabad
+837,Store_837,South,Delhi,Chinsurah
+838,Store_838,Central,Tamil Nadu,Guna
+839,Store_839,West,Tamil Nadu,Medininagar
+840,Store_840,Central,Delhi,Baranagar
+841,Store_841,Central,Uttar Pradesh,Muzaffarpur
+842,Store_842,North,Maharashtra,New Delhi
+843,Store_843,North,Maharashtra,Warangal
+844,Store_844,East,Uttar Pradesh,Malda
+845,Store_845,North,Delhi,Ambattur
+846,Store_846,East,Maharashtra,Dewas
+847,Store_847,North,Delhi,Jalna
+848,Store_848,Central,Uttar Pradesh,Giridih
+849,Store_849,Central,Uttar Pradesh,Bikaner
+850,Store_850,West,Maharashtra,Gulbarga
+851,Store_851,North,Maharashtra,Ulhasnagar
+852,Store_852,South,Uttar Pradesh,Thoothukudi
+853,Store_853,South,Uttar Pradesh,Shimla
+854,Store_854,North,Maharashtra,Barasat
+855,Store_855,East,Maharashtra,Burhanpur
+856,Store_856,West,Karnataka,Hindupur
+857,Store_857,North,Uttar Pradesh,Bathinda
+858,Store_858,South,Karnataka,Madhyamgram
+859,Store_859,South,Uttar Pradesh,Gandhinagar
+860,Store_860,East,Uttar Pradesh,Panchkula
+861,Store_861,South,Maharashtra,Patiala
+862,Store_862,West,Maharashtra,Serampore
+863,Store_863,Central,Karnataka,Chittoor
+864,Store_864,Central,Uttar Pradesh,Amritsar
+865,Store_865,Central,Tamil Nadu,Kalyan-Dombivli
+866,Store_866,West,Tamil Nadu,Muzaffarnagar
+867,Store_867,South,Karnataka,Hindupur
+868,Store_868,Central,Maharashtra,Guntur
+869,Store_869,North,Karnataka,Karnal
+870,Store_870,Central,Delhi,Loni
+871,Store_871,Central,Uttar Pradesh,Jamshedpur
+872,Store_872,East,Delhi,Pune
+873,Store_873,South,Delhi,Singrauli
+874,Store_874,West,Tamil Nadu,Katihar
+875,Store_875,West,Uttar Pradesh,Varanasi
+876,Store_876,Central,Maharashtra,Jamnagar
+877,Store_877,West,Maharashtra,Guntakal
+878,Store_878,South,Karnataka,Dhanbad
+879,Store_879,South,Delhi,Bhubaneswar
+880,Store_880,North,Karnataka,Anand
+881,Store_881,Central,Tamil Nadu,Hapur
+882,Store_882,Central,Delhi,Hindupur
+883,Store_883,West,Uttar Pradesh,Proddatur
+884,Store_884,South,Karnataka,Thiruvananthapuram
+885,Store_885,West,Uttar Pradesh,North Dumdum
+886,Store_886,West,Tamil Nadu,Rampur
+887,Store_887,East,Tamil Nadu,Kirari Suleman Nagar
+888,Store_888,West,Karnataka,Satna
+889,Store_889,West,Delhi,Rourkela
+890,Store_890,East,Tamil Nadu,Kanpur
+891,Store_891,East,Karnataka,Parbhani
+892,Store_892,South,Karnataka,Mango
+893,Store_893,Central,Tamil Nadu,Satara
+894,Store_894,South,Uttar Pradesh,Agartala
+895,Store_895,East,Uttar Pradesh,Kakinada
+896,Store_896,South,Uttar Pradesh,Raipur
+897,Store_897,East,Delhi,Morbi
+898,Store_898,Central,Maharashtra,Shivpuri
+899,Store_899,South,Maharashtra,Lucknow
+900,Store_900,West,Uttar Pradesh,Srinagar
+901,Store_901,North,Maharashtra,Farrukhabad
+902,Store_902,West,Maharashtra,Karimnagar
+903,Store_903,Central,Karnataka,Mathura
+904,Store_904,North,Delhi,Dindigul
+905,Store_905,East,Uttar Pradesh,Dehradun
+906,Store_906,Central,Karnataka,Salem
+907,Store_907,West,Karnataka,Aurangabad
+908,Store_908,Central,Maharashtra,Lucknow
+909,Store_909,South,Karnataka,Durgapur
+910,Store_910,East,Delhi,Belgaum
+911,Store_911,East,Tamil Nadu,Howrah
+912,Store_912,South,Delhi,Ambarnath
+913,Store_913,Central,Tamil Nadu,Delhi
+914,Store_914,North,Uttar Pradesh,Ghaziabad
+915,Store_915,South,Tamil Nadu,Ahmedabad
+916,Store_916,West,Tamil Nadu,Malda
+917,Store_917,South,Uttar Pradesh,Bhalswa Jahangir Pur
+918,Store_918,North,Tamil Nadu,Dindigul
+919,Store_919,North,Maharashtra,Parbhani
+920,Store_920,East,Tamil Nadu,Satna
+921,Store_921,South,Tamil Nadu,Karawal Nagar
+922,Store_922,South,Tamil Nadu,New Delhi
+923,Store_923,Central,Uttar Pradesh,Kurnool
+924,Store_924,Central,Maharashtra,Bilaspur
+925,Store_925,South,Tamil Nadu,Morbi
+926,Store_926,Central,Tamil Nadu,Purnia
+927,Store_927,South,Uttar Pradesh,Chapra
+928,Store_928,South,Karnataka,Gwalior
+929,Store_929,North,Tamil Nadu,Bhilwara
+930,Store_930,North,Maharashtra,Bikaner
+931,Store_931,East,Karnataka,Mathura
+932,Store_932,North,Delhi,Gandhinagar
+933,Store_933,North,Delhi,Ichalkaranji
+934,Store_934,East,Uttar Pradesh,Satara
+935,Store_935,Central,Maharashtra,Bhavnagar
+936,Store_936,West,Delhi,Dewas
+937,Store_937,East,Karnataka,Madanapalle
+938,Store_938,North,Tamil Nadu,Guwahati
+939,Store_939,Central,Delhi,Dindigul
+940,Store_940,East,Delhi,Ambattur
+941,Store_941,East,Delhi,Bhilai
+942,Store_942,West,Maharashtra,Loni
+943,Store_943,East,Delhi,Shahjahanpur
+944,Store_944,North,Karnataka,Baranagar
+945,Store_945,West,Karnataka,Morena
+946,Store_946,South,Delhi,Bihar Sharif
+947,Store_947,East,Maharashtra,Guntur
+948,Store_948,South,Uttar Pradesh,Mehsana
+949,Store_949,East,Maharashtra,Rewa
+950,Store_950,South,Maharashtra,Kozhikode
+951,Store_951,South,Tamil Nadu,Bhavnagar
+952,Store_952,East,Maharashtra,Vadodara
+953,Store_953,West,Karnataka,Bhilai
+954,Store_954,Central,Karnataka,Guntakal
+955,Store_955,North,Delhi,Tumkur
+956,Store_956,North,Maharashtra,Tiruchirappalli
+957,Store_957,West,Karnataka,Jalandhar
+958,Store_958,North,Delhi,Ichalkaranji
+959,Store_959,Central,Delhi,Dhanbad
+960,Store_960,Central,Tamil Nadu,Aurangabad
+961,Store_961,East,Tamil Nadu,Karnal
+962,Store_962,South,Maharashtra,Jammu
+963,Store_963,South,Karnataka,Ulhasnagar
+964,Store_964,Central,Tamil Nadu,Nellore
+965,Store_965,Central,Maharashtra,Saharsa
+966,Store_966,Central,Uttar Pradesh,Farrukhabad
+967,Store_967,North,Maharashtra,Haldia
+968,Store_968,West,Uttar Pradesh,Vellore
+969,Store_969,North,Maharashtra,Bidhannagar
+970,Store_970,East,Maharashtra,Serampore
+971,Store_971,North,Delhi,Panipat
+972,Store_972,West,Delhi,Rajpur Sonarpur
+973,Store_973,North,Tamil Nadu,Durgapur
+974,Store_974,South,Maharashtra,Kolkata
+975,Store_975,East,Maharashtra,Ramgarh
+976,Store_976,North,Maharashtra,Chandrapur
+977,Store_977,North,Maharashtra,Bihar Sharif
+978,Store_978,West,Karnataka,Ghaziabad
+979,Store_979,East,Karnataka,Nizamabad
+980,Store_980,North,Uttar Pradesh,Rourkela
+981,Store_981,East,Delhi,Belgaum
+982,Store_982,East,Maharashtra,Nagaon
+983,Store_983,North,Uttar Pradesh,Nandyal
+984,Store_984,Central,Maharashtra,Firozabad
+985,Store_985,North,Delhi,Nagercoil
+986,Store_986,North,Maharashtra,Mahbubnagar
+987,Store_987,South,Delhi,Vadodara
+988,Store_988,North,Uttar Pradesh,Gurgaon
+989,Store_989,North,Delhi,Hyderabad
+990,Store_990,West,Uttar Pradesh,Jhansi
+991,Store_991,South,Uttar Pradesh,Sasaram
+992,Store_992,North,Karnataka,Amaravati
+993,Store_993,West,Karnataka,Mehsana
+994,Store_994,West,Maharashtra,Muzaffarnagar
+995,Store_995,Central,Uttar Pradesh,Firozabad
+996,Store_996,South,Delhi,Madhyamgram
+997,Store_997,South,Karnataka,Chapra
+998,Store_998,East,Delhi,Noida
+999,Store_999,Central,Maharashtra,Rewa
+1000,Store_1000,South,Tamil Nadu,Alappuzha
