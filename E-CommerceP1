@@ -79,4 +79,37 @@ NetSales float
 )
 Select * from fact_sales
 
+--Create Dim_date table from fact_sales table -----
+
+Create table dim_dates (
+orderdate date primary key,
+year int, 
+month int,
+month_name varchar(20),
+quarter int,
+day int, 
+day_name varchar (20),
+week_of_year int,
+is_weekend Boolean 
+)
+Select * from dim_dates
+
+Insert into dim_dates
+Select distinct 
+Orderdate as orderdate,
+extract	(year from orderdate) as year,
+extract	(month from orderdate) as month,
+TO_char(orderdate, 'month') as month_name,
+extract	(quarter from orderdate) as quarter,
+extract	(day from orderdate) as day,
+To_char(orderdate, 'day') as day_name,
+extract	(week from orderdate) as week_of_year,
+
+case 
+	when extract(Dow from orderdate)in (0,6) then true 
+	else false 
+end as is_weekend
+from fact_sales
+where orderdate is not null
+
 
