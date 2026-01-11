@@ -1,0 +1,82 @@
+--DATABASE name CommerceP1------
+--We have created 6 tables one fact and 5 dim. 
+--This is the 1st table------------
+Create table dim_payments (
+PaymentID int Primary Key,
+PaymentMode	varchar (20),
+PaymentProvider varchar (20))
+
+select * from dim_payments;
+
+--This is the 2nd table------
+Create table dim_departments (
+DepartmentID int primary key,	
+DepartmentName varchar(15),
+ManagerName varchar(18))
+
+select * from dim_departments;
+
+--This is the 3rd table-----
+Create table dim_stores (
+StoreID int primary key,
+StoreName varchar (15),
+Region varchar(10),
+State varchar(15),
+City varchar (30)
+)
+Select * from dim_stores
+
+--This is the 4th table---------
+Create table dim_customers(
+CustomerID int primary key,
+CustomerName varchar(30),	
+Gender varchar (10),
+AgeGroup varchar (10),	
+State varchar (15),
+CustomerType varchar(15)
+)
+Select * from dim_customers
+
+
+--This the 5th table--------
+create table dim_products (
+ProductID int primary key,
+ProductName varchar(15),
+Category varchar(20),
+SubCategory varchar(10),
+Brand VARCHAR(10),
+MRP INT)
+
+Select * from dim_products
+
+---This is the 6th table------
+drop table fact_sales
+
+Create table fact_sales (
+OrderID int primary key,
+OrderDate date,	
+CustomerID int,	
+ProductID int,
+StoreID int,
+DepartmentID int,	
+PaymentID int,	
+Quantity int,	
+UnitPrice int,	
+DiscountPercent int,
+GSTPercent float,	
+ShippingCost int,	
+OrderStatus	varchar(15),
+Channel	varchar(10),
+SalesType varchar (10),
+IsReturn int,
+DeliveryDays int,	
+Rating int,
+PromoApplied int,
+CostPrice float,
+GrossSales float,
+DiscountAmount float,	
+NetSales float
+)
+Select * from fact_sales
+
+
